@@ -1,3 +1,6 @@
+---
+
+---
 # README
 > 该博客采用 hexo 博客框架 + github pages + jsimple 主题,严格遵守 MIT
 > 协议，如有疑问请联系该小生。
