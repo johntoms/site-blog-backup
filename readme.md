@@ -1,5 +1,6 @@
 ---
-
+skip_render:
+  true
 ---
 # README
 > 该博客采用 hexo 博客框架 + github pages + jsimple 主题,严格遵守 MIT
