@@ -6,6 +6,7 @@ skip_render:
 > 该博客采用 hexo 博客框架 + github pages + jsimple 主题,严格遵守 MIT
 > 协议，如有疑问请联系该小生。
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ## 关于网站
 1. 该网站是开源项目组成，如果您喜欢或者需要部署一个类似的网站，可以联系小生。欢迎来扰！！！
 2. 该网站属于个人博客，记录技术和个人生活，不参与任何商业行动。
