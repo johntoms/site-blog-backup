@@ -18,6 +18,13 @@ skip_render:
 - [邮箱](johntoms@163.com)
 - [QQ](1553977967)
 
+## 主题修改记录
+```
+ cover-day.jpeg修改位置：SimpleCore.js
+ line:740, 741
+ 
+```
+
 ## 鸣谢
 - [关于 hexo](https://hexo.io/zh-cn/)
 - [关于 jsimple 主题](https://github.com/tangkunyin/hexo-theme-jsimple)
