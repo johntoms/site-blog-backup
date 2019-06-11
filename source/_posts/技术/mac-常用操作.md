@@ -9,7 +9,7 @@ categories: 技术
 tags:
   - MAC
 photos:
-  - http://pr8e0eh4q.bkt.clouddn.com/bestzzzc_cn/pages/pictures/apple_iclon.jpg
+  - https://oss-md-pictures.oss-cn-hangzhou.aliyuncs.com/bestzzzc_cn/apple_iclon.jpg
 date: 2019-05-10 22:31:05
 timestamp: 142342342423
 keywords:
