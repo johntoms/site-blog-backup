@@ -1,5 +1,5 @@
 ---
-title: mac 常用操作
+title: 使用 Chrome 内置工具截长图
 author: JohnToms
 avatar: /images/favicon.png
 authorLink: 'https://www.bestzzzc.cn'
