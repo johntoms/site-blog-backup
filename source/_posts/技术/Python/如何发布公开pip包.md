@@ -1,3 +1,22 @@
+---
+title: 如何发布公开 pip 包
+author: JohnToms
+avatar: /images/favicon.png
+authorLink: 'https://www.bestzzzc.cn'
+authorAbout: 'https://bestzzzc.cn'
+authorDesc: 怀着一颗勇敢的心
+categories: 技术
+tags:
+  - Python
+photos:
+  - 
+date: 2019-07-23 22:31:05
+timestamp: 1421314322423
+keywords:
+description:
+---
+
+
 # 如何发布公开 pip 包
 ## 需求
 1. `pypi.org`账号，主邮箱需要验证通过。
